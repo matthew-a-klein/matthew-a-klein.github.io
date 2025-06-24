@@ -1,11 +1,9 @@
+---
 layout: page
 title: Resume
 permalink: /resume/
 ---
-# Matthew Klein
-
 **Location:** London, United Kingdom  
-**Phone:** +44 7866 408597  
 **Email:** [matthewklein345@gmail.com](mailto:matthewklein345@gmail.com)  
 **LinkedIn:** [matthew-alexander-klein](https://uk.linkedin.com/in/matthew-alexander-klein-987712255)  
 **GitHub:** [matthew-a-klein](https://github.com/matthew-a-klein)
