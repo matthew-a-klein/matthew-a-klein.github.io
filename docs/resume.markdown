@@ -43,7 +43,7 @@ Lover of all things zero-knowledge.
 
 **Hasmonean High School**  
 *London, September 2010 – August 2017*  
-- A Levels: Maths (A*), Further Maths (A*), Chemistry (A), Physics (A), Biblical Hebrew (A)
+- A Levels: Maths (A\*), Further Maths (A\*), Chemistry (A), Physics (A), Biblical Hebrew (A)
 
 ---
 
