@@ -65,14 +65,3 @@ Lover of all things zero-knowledge.
 *October 2023 – January 2024*  
 - University coursework project compiling an imperative language to the JVM and a functional language to LLVM-IR using Scala.  
 - Dissertation included the design of a functional language with native date and time data types.
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

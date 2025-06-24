@@ -27,6 +27,10 @@ url: "https://matthew-a-klein.github.io/" # the base hostname & protocol for you
 theme: minima
 plugins:
   - jekyll-feed
+nav:
+
+  - title: "Resume"
+    url: "/resume/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
