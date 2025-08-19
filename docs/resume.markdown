@@ -12,7 +12,7 @@ permalink: /resume/
 
 ## Profile
 
-Software engineer currently at Nethermind.  
+Software engineer currently at Reilabs.  
 Passionate about well-written, clean code and useful software.  
 I have experience in applied cryptography, compilers, and machine learning.  
 Lover of all things zero-knowledge.
@@ -21,13 +21,15 @@ Lover of all things zero-knowledge.
 
 ## Employment History
 
-**Cryptography Engineer**  
-*Nethermind (Remote), October 2024 – Present*
+**Reilabs (Remote)**  
+- **Cryptography Engineer** (July 2025 – Present)  
 
-**Cryptography Research Intern**  
-*Nethermind (Remote), June 2024 – September 2024*  
-- Researched, implemented, and optimized cryptographic primitives and zero-knowledge systems.  
-- Primarily developed in Rust.
+**Nethermind (Remote)**  
+- **Cryptography Engineer** (October 2024 – July 2025)  
+- **Cryptography Research Intern** (June 2024 – September 2024)  
+  - Researched, implemented, and optimized cryptographic primitives and zero-knowledge systems.  
+  - Primarily developed in Rust.  
+
 
 ---
 
